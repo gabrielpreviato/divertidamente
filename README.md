@@ -39,7 +39,7 @@ The [figs](https://github.com/gabrielpreviato/divertidamente/tree/master/figs) d
 
 The [notebooks](https://github.com/gabrielpreviato/divertidamente/tree/master/notebooks) directory contains the notebooks used for the tests.
 
-The [Results](https://github.com/gabrielpreviato/hardest-pygame-ever/blob/master/Results) directory contains the results obtained with the tests executed.
+The [Results](https://github.com/gabrielpreviato/divertidamente/blob/master/Results) directory contains the results obtained with the tests executed.
 
 ## Project 3 - Division of Tasks
 All of the members of the group,
