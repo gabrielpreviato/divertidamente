@@ -1,0 +1,29 @@
+              precision    recall  f1-score   support
+
+ Pomegranate       0.98      0.98      0.98       540
+        Plum       1.00      1.00      1.00       573
+     Apple F       0.92      0.95      0.93       506
+   Muskmelon       0.96      0.92      0.94       518
+   Persimmon       1.00      0.99      0.99       517
+   Carambola       0.99      1.00      1.00       519
+     Apple B       0.99      1.00      1.00       184
+     Apple E       1.00      1.00      1.00       165
+     Apple C       1.00      1.00      1.00       249
+      Banana       0.99      0.97      0.98       755
+      Kiwi C       1.00      1.00      1.00       255
+    Tomatoes       1.00      1.00      1.00       541
+       Mango       0.98      0.99      0.99      1037
+     Apple A       1.00      1.00      1.00       172
+      Kiwi B       1.00      1.00      1.00       265
+     Apple D       1.00      1.00      1.00       257
+       Peach       0.99      1.00      0.99       656
+      Pitaya       1.00      1.00      1.00       624
+     Guava B       1.00      1.00      1.00       405
+      Orange       0.99      1.00      1.00       752
+      Kiwi A       1.00      1.00      1.00       549
+     Guava A       1.00      1.00      1.00       377
+        Pear       0.97      0.98      0.98       752
+
+    accuracy                           0.99     11168
+   macro avg       0.99      0.99      0.99     11168
+weighted avg       0.99      0.99      0.99     11168
