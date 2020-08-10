@@ -31,7 +31,7 @@ solutions are expected. Additional comparisons with the literature are welcome, 
 the group is using an existing implementation, this information needs to be clearly presented in the text.
 
 ## Project 3 - Solution Video
-The solution video can be found at: https://www.youtube.com/watch?v=dgWz7dnzC84
+The solution video can be found at: https://www.youtube.com/watch?v=PZ-978oFfVI&t=1s
 
 ## Project 3 - Repository Structure
 
